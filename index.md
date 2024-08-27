@@ -19,8 +19,9 @@ In this project, I was responsible for designing, configuring, and executing bot
 ### Challenges & Solutions
 
 **Challenge**: Difficulty establishing a connection between the Sliver C2 server on the Ubuntu Linux machine and the Windows 11 machine using Port 80 (HTTP).
+
 **Solution**: After researching and troubleshooting, I realized the issue was due to not having the necessary administrative privileges. By using the `sudo su` command to elevate my permissions on the Ubuntu machine, I was able to successfully establish the connection between the Sliver C2 server and the Windows 11 machine.
 
-## Documentation
+### Documentation
 
 This project was executed using a structured approach based on [Eric Capuano's SOC Analyst guide](https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro). While I followed the provided instructions, I also applied my technical skills to resolve unique challenges, such as establishing the Sliver C2 connection on Ubuntu Linux. The experience strengthened my ability to implement cybersecurity solutions in a controlled environment. For a detailed walkthrough of the setup, along with the adjustments I made, visit the [full project documentation on GitHub](https://github.com/michaellu0310/SOC-Analyst-Home-Lab).
