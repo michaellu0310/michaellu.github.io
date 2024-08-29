@@ -1,3 +1,14 @@
+# Introduction
+Welcome to my Portfolio
+
+Hello and welcome! I'm Michael, a cybersecurity enthusiast with a solid background in computer science. Initially, I aimed to be a Software Engineer, but my passion shifted towards threat hunting and incident response, guiding me towards a career as a SOC Analyst. I am particularly interested in Cloud Security, given its pivotal role in the future of data protection as sensitive information becomes increasingly exposed in our digital world.
+
+In this portfolio, you'll discover a range of projects that showcase my skills and expertise. Each project is carefully documented to illustrate my methods, tools, and results. I hope you find my work both engaging and insightful.
+
+Feel free to explore the detailed documentation and reach out if you have any opportunities!
+
+Thank you for visiting!
+
 # SOC Analyst Home Lab Project
 
 ## Overview
