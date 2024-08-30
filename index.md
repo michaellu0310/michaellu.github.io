@@ -55,10 +55,12 @@ This project is from [MasterCard Cybersecurity Virtual Experience](https://www.t
 
 ### Challenges & Solutions
 Challenge #1: To able to contextualize the importance of the phishing email attempt for the specific employee without sounding suspicious.
+
 Solution #1: The phishing email was made to be sound more generic and bland which would push urgency to fix a problem that doesn't exist.
 
 
 Challenge #2: Make the presentation not boring.
+
 Solution #2: Present data that would show who may be a victim to these phishing attempts so they are more inclined to follow along.
 
 
