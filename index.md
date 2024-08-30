@@ -38,3 +38,23 @@ In this project, I was responsible for designing, configuring, and executing bot
 ### Documentation
 
 This project was executed using a structured approach based on [Eric Capuano's SOC Analyst guide](https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro). While I followed the provided instructions, I also applied my technical skills to resolve unique challenges, such as establishing the Sliver C2 connection on Ubuntu Linux. The experience strengthened my ability to implement cybersecurity solutions in a controlled environment. For a detailed walkthrough of the setup, along with the adjustments I made, visit the [full project documentation on GitHub](https://github.com/michaellu0310/SOC-Analyst-Home-Lab).
+
+# MasterCard Cybersecurity Virtual Experience
+
+## Overview
+This project is from [MasterCard Cybersecurity Virtual Experience](https://www.theforage.com/simulations/mastercard/cybersecurity-t8ye) focused on identifying phishing emails and creating educational content around them. I successfully analyzed suspicious emails to identify potential phishing attempts and then crafted a realistic phishing email scenario. To further reinforce the learning, I developed a PowerPoint presentation aimed at teaching employees how to recognize phishing emails and protect themselves from such threats. This experience has sharpened my skills in phishing detection, social engineering, and cybersecurity awareness training.
+
+**Key Skills**: Phishing Detection, Social Engineering Techniques, Email Analysis, Threat Simulation, Cybersecurity Awareness Training, Presentation Skills
+
+## Visuals
+![Phishing-Detection](https://github.com/user-attachments/assets/baa14f01-2a88-4bdf-9abb-5ab01ef26ea1)
+![Threat-Simulation](https://github.com/user-attachments/assets/d4bc6748-f8bb-4d4c-9093-18b9579cbfe8)
+![Presentation](https://github.com/user-attachments/assets/ab772250-28bc-434a-b2a8-cde668694d41)
+
+### Challenges & Solutions
+Challenge #1: To able to contextualize the importance of the phishing email attempt for the specific employee without sounding suspicious.
+Solution #1: The phishing email was made to be sound more generic and bland which would push urgency to fix a problem that doesn't exist.
+
+
+Challenge #2: Make the presentation not boring.
+Solution #2: Present data that would show who may be a victim to these phishing attempts so they are more inclined to follow along.
