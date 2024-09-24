@@ -11,7 +11,7 @@ Feel free to explore the detailed documentation and reach out if you have any op
 
 Thank you for visiting!
 
-# SOC Analyst Home Lab Project
+# EDR Home Lab: Attack and Defense
 
 ## Overview
 
@@ -37,7 +37,7 @@ In this project, I was responsible for designing, configuring, and executing bot
 
 ### Documentation
 
-This project was executed using a structured approach based on [Eric Capuano's SOC Analyst guide](https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro). While I followed the provided instructions, I also applied my technical skills to resolve unique challenges, such as establishing the Sliver C2 connection on Ubuntu Linux. The experience strengthened my ability to implement cybersecurity solutions in a controlled environment. For a detailed walkthrough of the setup, along with the adjustments I made, visit the [full project documentation on GitHub](https://github.com/michaellu0310/SOC-Analyst-Home-Lab).
+This project was executed using a structured approach based on [Eric Capuano's SOC Analyst guide](https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro). While I followed the provided instructions, I also applied my technical skills to resolve unique challenges, such as establishing the Sliver C2 connection on Ubuntu Linux. The experience strengthened my ability to implement cybersecurity solutions in a controlled environment. For a detailed walkthrough of the setup, along with the adjustments I made, visit the [full project documentation on GitHub](https://github.com/michaellu0310/EDR-Attack-n-Defense).
 
 
 
