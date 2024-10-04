@@ -99,8 +99,5 @@ Currently developing a logging bot for a social media community of 300+ members,
 
 Key Skills: Python, Pytesseract/EasyOCR, AWS, Discord Bot, Logging, Spreadsheet
 
-## Visuals
-![C-Bot-1](https://github.com/user-attachments/assets/87915d5b-95fe-4488-bb46-2414fcb0d81b)
-
 ### Documentation
 This project is in high demand across thousands of similar communities. The GitHub page for this project is currently unavailable.
