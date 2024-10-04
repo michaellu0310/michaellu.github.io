@@ -23,10 +23,6 @@ This project simulates real-world cybersecurity scenarios within a controlled la
 ![Attack Privileges](https://github.com/user-attachments/assets/bfdea9d5-591c-4d09-b0e7-98f013ec8124)
 ![LimaCharlie-Detections](https://github.com/user-attachments/assets/d4cb0ce6-c667-4a07-b7a7-79fea6f73b1f)
 
-### My Role
-
-In this project, I was responsible for designing, configuring, and executing both offensive and defensive cybersecurity operations within the home lab. I set up and managed the virtual machines, deployed Sliver as the C2 framework on the Ubuntu machine, and implemented LimaCharlie on the Windows machine as the EDR solution.
-
 ### Challenges & Solutions
 
 **Challenge**: Difficulty establishing a connection between the Sliver C2 server on the Ubuntu Linux machine and the Windows 11 machine using Port 80 (HTTP).
@@ -36,7 +32,6 @@ In this project, I was responsible for designing, configuring, and executing bot
 ### Documentation
 
 This project was executed using a structured approach based on [Eric Capuano's SOC Analyst guide](https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro). While I followed the provided instructions, I also applied my technical skills to resolve unique challenges, such as establishing the Sliver C2 connection on Ubuntu Linux. The experience strengthened my ability to implement cybersecurity solutions in a controlled environment. For a detailed walkthrough of the setup, along with the adjustments I made, visit the [full project documentation on GitHub](https://github.com/michaellu0310/EDR-Attack-n-Defense).
-
 
 
 # MasterCard Cybersecurity Virtual Experience
@@ -93,3 +88,19 @@ Key Skills: IDS/IPS, Network Traffic Analysis, Snort, Metasploit, Wireshark, Kal
 
 **Challenge #5:** Finding var folder for snort logs.\
 **Solution #5:** Press CTRL+H in file explorer to show hidden folders.
+
+### Documentation
+Metasploit is one of the most used penetrating testing framework with a lot of ways to exploit networks. Snort and Wireshark are free powerful tools to use for network security, pairing it with Metasploit makes it a great project combination. More for this project can be found on the [full documentation on GitHub](https://github.com/michaellu0310/Intrusion-Detection-and-Threat-Analysis-Lab).
+
+# C-Bot
+
+## Overview
+Currently developing a logging bot for a social media community of 300+ members, utilizing Python, Tesseract/EasyOCR, AWS, and GitHub in collaboration with a team.
+
+Key Skills: Python, Pytesseract/EasyOCR, AWS, Discord Bot, Logging, Spreadsheet
+
+## Visuals
+![C-Bot-1](https://github.com/user-attachments/assets/87915d5b-95fe-4488-bb46-2414fcb0d81b)
+
+### Documentation
+This project is in high demand across thousands of similar communities. The GitHub page for this project is currently unavailable.
