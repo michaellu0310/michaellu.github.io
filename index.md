@@ -1,13 +1,11 @@
 # Introduction
 Welcome to my Portfolio
 
-Hello and welcome! I'm Michael, a cybersecurity enthusiast with a strong foundation in computer science. While I initially aimed to become a Software Engineer, I found my true passion in threat hunting and incident response, leading me to pursue a career as a SOC Analyst. I'm especially interested in Cloud Security (and potentially Cloud Security Engineering) because the cloud is a vital component of both current and future IT infrastructure. Securing it is essential for protecting sensitive data. My willingness to work around the clock complements the demands of a SOC Analyst role, where constant vigilance and adaptability are crucial.
+Hello and welcome! I am Michael! I’m a recent graduate from Rutgers University’s Computer Science program, where my lifelong passion for technology only grew & grew. It started me on a path that resulted in the CompTIA Security+ & ISC2 Certified in Cybersecurity certifications.
 
-In this portfolio, you'll discover a range of projects that showcase my skills and expertise. Each project is carefully documented to illustrate my methods, tools, and results. I hope you find my work both engaging and insightful.
+In this portfolio, you'll find an overview of projects focused on blue team roles & responsibilities that showcase my skills and expertise. Each project is documented to illustrate my methods, tools, and results. I hope you find my work both engaging and insightful!
 
-Feel free to explore the detailed documentation and reach out if you have any opportunities!
-
-[You can find all of my projects here as well](https://github.com/michaellu0310?tab=repositories)
+[You can find all of my projects in their entirety on github](https://github.com/michaellu0310?tab=repositories)
 
 Thank you for visiting!
 
@@ -54,15 +52,44 @@ This project is from [MasterCard Cybersecurity Virtual Experience](https://www.t
 ![Presentation](https://github.com/user-attachments/assets/ab772250-28bc-434a-b2a8-cde668694d41)
 
 ### Challenges & Solutions
-Challenge #1: To able to contextualize the importance of the phishing email attempt for the specific employee without sounding suspicious.
-
+Challenge #1: To able to contextualize the importance of the phishing email attempt for the specific employee without sounding suspicious.\
 Solution #1: The phishing email was made to be sound more generic and bland which would push urgency to fix a problem that doesn't exist.
 
 
-Challenge #2: Make the presentation not boring.
-
+Challenge #2: Make the presentation not boring.\
 Solution #2: Present data that would show who may be a victim to these phishing attempts so they are more inclined to follow along.
 
 
 ### Documentation
 The project is following [MasterCard Cybersecurity Virtual Experience](https://www.theforage.com/simulations/mastercard/cybersecurity-t8ye). This experience breaks down the order in which a phishing campaign is done. Each learner's experience is different from another, I can only imagine how different  my phishing email and presentation may look from another. When these minds are working together in a team, we could have something incredible. [This experience documentation can be found on GitHub](https://github.com/michaellu0310/mastercard-forage-simulation).
+
+
+# Intrusion Detection and Threat Analysis Lab
+
+## Overview
+This lab was made from scratch to simulate a real-world network attack focusing on detecting, logging, and analyzing threats in a controlled environment. The lab will involve creating two virtual machines: one running Kali Linux (acting as the attacker) and the other running Ubuntu (serving as the victim and network analyzer). The Kali Linux machine will utilize a backdoor Metasploit method to attempt exploit, while the Ubuntu machine will employ Snort as an IDS/IPS and logging solution, and Wireshark as a network analyzer.
+
+Key Skills: IDS/IPS, Network Traffic Analysis, Snort, Metasploit, Wireshark, Kali Linux, Ubuntu, CLI, Virtualization and VM Network Configuration, Attack Simulation
+
+## Visuals
+![11-1](https://github.com/user-attachments/assets/64dc2f2f-9944-49ab-a4ef-6d915b3b7cd3)
+![11-2](https://github.com/user-attachments/assets/1d99d651-3cd3-455d-a760-a40658f4fb37)
+![27](https://github.com/user-attachments/assets/3f5b71ca-ea34-48e2-b29d-5e876e9400f3)
+![28](https://github.com/user-attachments/assets/95477b90-74e6-4486-9958-512eea00289e)
+
+### Challenges & Solutions
+
+**Challenge #1:** Kali Linux did not have the proper tools to download anything on terminal such as installing metasploit.\
+**Solution #1:** Kali Linux needed to install the debian package to get started for this project.
+
+**Challenge #2:** When running ```sudo snort -T -i enp0s3 -c /etc/snort/snort.conf``` it said ```ERROR: /etc/snort/snort.conf(280) Unknown rule type: et. Fatal Error. Quitting..```\
+**Solution #2:** Going back into snort.conf using vim and removing the extra typo lines when trying to exit vim.
+
+**Challenge #3:** VMs utilizing same IP so I cannot ping to test snort.\
+**Solution #3:** In VirtualBox, set each VM network setting to be Host-Only Ethernet Adapter.
+
+**Challenge #4:** With the new IP Addresses both VMs refuses to talk to each other.\
+**Solution #4:** In VirtualBox, create and set NAT Network for both machines.
+
+**Challenge #5:** Finding var folder for snort logs.\
+**Solution #5:** Press CTRL+H in file explorer to show hidden folders.
