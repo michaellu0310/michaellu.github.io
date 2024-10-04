@@ -67,10 +67,10 @@ This lab was made from scratch to simulate a real-world network attack focusing 
 Key Skills: IDS/IPS, Network Traffic Analysis, Snort, Metasploit, Wireshark, Kali Linux, Ubuntu, CLI, Virtualization and VM Network Configuration, Attack Simulation
 
 ## Visuals
-![11-1](https://github.com/user-attachments/assets/64dc2f2f-9944-49ab-a4ef-6d915b3b7cd3)
-![11-2](https://github.com/user-attachments/assets/1d99d651-3cd3-455d-a760-a40658f4fb37)
-![27](https://github.com/user-attachments/assets/3f5b71ca-ea34-48e2-b29d-5e876e9400f3)
-![28](https://github.com/user-attachments/assets/95477b90-74e6-4486-9958-512eea00289e)
+![ICMP1](https://github.com/user-attachments/assets/64dc2f2f-9944-49ab-a4ef-6d915b3b7cd3)
+![ICMP2](https://github.com/user-attachments/assets/1d99d651-3cd3-455d-a760-a40658f4fb37)
+![Metasploit-Backdoor](https://github.com/user-attachments/assets/3f5b71ca-ea34-48e2-b29d-5e876e9400f3)
+![Wireshark-Stream](https://github.com/user-attachments/assets/95477b90-74e6-4486-9958-512eea00289e)
 
 ### Challenges & Solutions
 
