@@ -99,5 +99,19 @@ Currently developing a logging bot for a social media community of 300+ members,
 
 Key Skills: Python, Pytesseract/EasyOCR, AWS, Discord Bot, Logging, Spreadsheet
 
+## Visuals
+![imagerecognition1](https://github.com/user-attachments/assets/171cc617-fbae-4ca4-9189-86ff6e507092)
+![imagerecognition2](https://github.com/user-attachments/assets/2894010c-4860-4252-a751-ee0b1cd15ee9)
+
+### Challenges & Solutions
+**Challenge #1:** Pytesseract vs EasyOCR text recognition.\
+**Solution #1:** After trial and error with separate codes for each library, EasyOCR reads the provided image better.
+
+**Challenge #2:** Failing image and text recognition.\
+**Solution #2:** A lot of fine-tuning for pre-processing including size adjustments and greyscale.
+
+**Challenge #3:** Accented characters.\
+**Solution #3:** No solution currently. Possibly develop a dictionary for the code to read and match.
+
 ### Documentation
 This project is in high demand across thousands of similar communities. The GitHub page for this project is currently unavailable.
